@@ -32,7 +32,7 @@
 ##### [민원 사이트](https://github.com/dgl1111/miniproject.git)
 - 수행기간 :  2024.08.12 ~ 2024.08.21
 - 목표 및 소개 : jsp를 활용하여 로그인과 회원가입, 게시글 CRUD, 관리자 권한으로 회원관리
-- 
+  
 ##### [sns 웹사이트](https://github.com/dgl1111/react-miniProject.git)
 - 수행기간 :  2024.10.24 ~ 2024.10.30
 - 목표 및 소개 : React 와 Node.js를 이용한 로그인과 회원가입 기능 및 CRUD로 SNS 프로젝트 개발.
