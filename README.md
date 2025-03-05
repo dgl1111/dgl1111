@@ -17,7 +17,7 @@
 
 
 ### 👨‍👩‍👧‍👦TeamProject
-+ 주류 판매 웹 사이트 ['한주'] (https://github.com/cleanMirror/Hanju_Project.git)
++ 주류 판매 웹 사이트 ['한주'](https://github.com/cleanMirror/Hanju_Project.git)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
