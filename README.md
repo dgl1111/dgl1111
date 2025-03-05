@@ -30,7 +30,13 @@
 
 ## 💁‍♀️ 개인프로젝트
 ##### [민원 사이트](https://github.com/dgl1111/miniproject.git)
-##### <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> [sns 웹사이트](https://github.com/dgl1111/react-miniProject.git)
+- 수행기간 :  2024.08.12 ~ 2024.08.21
+- 목표 및 소개 : jsp를 활용하여 로그인과 회원가입, 게시글 CRUD, 관리자 권한으로 회원관리
+- 
+##### [sns 웹사이트](https://github.com/dgl1111/react-miniProject.git)
+- 수행기간 :  2024.10.24 ~ 2024.10.30
+- 목표 및 소개 : React 와 Node.js를 이용한 로그인과 회원가입 기능 및 CRUD로 SNS 프로젝트 개발.
+
 
 ## 🎓 교육 사항
 #### MSA기반 플러터(Dart)활용 자바(JAVA)프론트엔드 백엔드 풀스택 웹(앱)개발 (2024.06.17~2024.12.23)
