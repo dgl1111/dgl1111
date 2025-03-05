@@ -30,7 +30,7 @@
 
 ## 💁‍♀️ 개인프로젝트
 ##### [민원 사이트](https://github.com/dgl1111/miniproject.git)
-##### [sns 웹사이트](https://github.com/dgl1111/react-miniProject.git)
+##### <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> [sns 웹사이트](https://github.com/dgl1111/react-miniProject.git)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
