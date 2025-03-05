@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&fontColor=000000&height=300&section=header&text=HyeIn'S%20Github&fontSize=90&stroke=d6ace6&strokeWidth=2)
 
 
-### ![image](https://github.com/user-attachments/assets/ced80942-c76a-48ed-866d-53e4bd84a32c) 원리와 구조를 이해하는 개발자 이혜인 입니다.
+![image](https://github.com/user-attachments/assets/ced80942-c76a-48ed-866d-53e4bd84a32c) ###  원리와 구조를 이해하는 개발자 이혜인 입니다.
 
 
 🛠️ Tech Stacks
