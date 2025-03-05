@@ -5,7 +5,7 @@
 
 
 
-## 🛠️ Tech Stacks
+## 🛠️ 프로그래밍 언어 Skill
 
 <p>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -16,18 +16,21 @@
 </p>
 
 
-## 👨‍👩‍👧‍👦 TeamProject
+## 👨‍👩‍👧‍👦 팀 프로젝트
 ### 📕 주류 판매 웹 사이트 ['한주'](https://github.com/cleanMirror/Hanju_Project.git)
 - 역할 : 회원가입, 로그인, 마이페이지 제작, 리뷰 작성, 페이지 디자인, 사이트 컨셉 디자인
 - 수행기간 :  2024.09.02 ~ 2024.10.04
 - 목표 및 소개 : 한 사이트에서 전통주 판매, 와인 픽업, 공동구매, 술 구독 등의 다양한 서비스를 이용
 
-### 📕 일상 관리 웹 사이트 ['DailySync'](https://github.com/kangkangkangsm/DailySyncTeam.git)
+### 📗 일상 관리 웹 사이트 ['DailySync'](https://github.com/kangkangkangsm/DailySyncTeam.git)
 - 역할 : 스케줄 등록, 수정, 검색 관리
 - 수행기간 :  2024.11.22 ~ 2024.12.23
 - 목표 및 소개 : 스케줄 관리, 식단 관리, To-Do 리스트, 가계부 관리 등을 하나의 웹에서 간편하게 
 제공하는 시스템
 
+## 💁‍♀️ 개인프로젝트
+[민원 사이트](https://github.com/dgl1111/miniproject.git)
+[sns 웹사이트](https://github.com/dgl1111/react-miniProject.git)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
