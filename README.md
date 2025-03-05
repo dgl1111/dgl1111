@@ -32,5 +32,10 @@
 ##### [민원 사이트](https://github.com/dgl1111/miniproject.git)
 ##### <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> [sns 웹사이트](https://github.com/dgl1111/react-miniProject.git)
 
+## 🎓 교육 사항
+#### MSA기반 플러터(Dart)활용 자바(JAVA)프론트엔드 백엔드 풀스택 웹(앱)개발 (2024.06.17~2024.12.23)
+
+
+## 🌎 GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
